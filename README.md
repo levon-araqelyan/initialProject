@@ -1,2 +1,2 @@
 # initialProject
-#initial structure of directories
+# Initial structure of directories
